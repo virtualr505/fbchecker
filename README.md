@@ -1,14 +1,14 @@
 ## FACEBOOK MASS ACCOUNT CHECKER
 
-![Image](https://raw.githubusercontent.com/fdciabdul/fbchecker/master/ss.png)
-[![license](https://img.shields.io/github/license/dwisiswant0/WiFiID.svg)](https://github.com/fdciabdul/fbchecker/blob/master/LICENSE)
+![Image](https://www.omgubuntu.co.uk/wp-content/uploads/2018/06/github-logo.jpeg)
+
 
 Facebook Mass Account Checker Simple
 Installation :
 ```
 apt install git
 apt install php
-git clone https://github.com/fdciabdul/fbchecker
+git clone https://github.com/virtualr505/fbchecker
 cd fbchecker
 php fbcheck.php
 ```
@@ -18,5 +18,4 @@ Usage
  php fbcheck.php target.txt
 ```
 
-- Website : [InsideHeartz.id](https://insideheartz.id)
-
+- 
